@@ -9,4 +9,4 @@
 7. Удалить приложение todolist с телефона через ADB
 
 >Задание можно посмотреть в файле
-<a href="script.txt">script.txt</a>
+<a href="script.sh">script.sh</a>
