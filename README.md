@@ -1,4 +1,4 @@
-# ADB Homework
+# AndroidDebugBridge Homework
 
 1. Отобразить подключённый девайс в консоли.
 2. Вывести адрес приложения todolist в системе Android
